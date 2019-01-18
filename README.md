@@ -7,6 +7,8 @@
 ufoLib
 ------
 
+⚠️ **ufoLib moved to [fontTools.ufoLib]** 
+
 A low-level [UFO] reader and writer.
 
 [UFO] is a human-readable, XML-based file format that stores font source files.
@@ -24,3 +26,4 @@ $ pip install ufoLib[lxml]
 ```
 
 [UFO]: http://unifiedfontobject.org/
+[fontTools.ufoLib]: http://github.com/fonttools/fonttools/tree/master/Lib/fontTools/ufoLib
